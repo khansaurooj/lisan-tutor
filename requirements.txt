@@ -1,0 +1,15 @@
+openai-whisper==20230314
+transformers==4.40.0
+sentencepiece==0.1.99
+pydub
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+ffmpeg-python
+moviepy
+torch
+scipy
+numpy
+requests
+google-generativeai>=0.3.2
